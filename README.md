@@ -42,7 +42,7 @@ Contributions are welcome. Follow guidelines in CONTRIBUTING.md and submit pull 
 This project is under the [license_name] license. See LICENSE.md for details.
 
 **Contact:**
-For inquiries or support, email [email_address].
+For inquiries or support, email ekamjotjaggi2511@gmail.com.
 
 
 [email_address]: ekamjotjaggi2511@gmail.com
