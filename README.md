@@ -1,4 +1,4 @@
-**Project Name: VISION_AI Guidance System for the Visually Impaired**
+**Project Name: VISION_AI : Guidance System for the Visually Impaired**
 
 **Description:**
 This project creates an AI guidance system to assist visually impaired individuals. Using real-time audio feedback and instructions, it helps users navigate their surroundings independently and safely. The system integrates advanced technologies like generative AI, computer vision, and natural language processing.
