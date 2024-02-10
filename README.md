@@ -11,6 +11,7 @@ This project creates an AI guidance system to assist visually impaired individua
 - Personalized Assistance
 - GPS Integration
 -PROBLEM SOLVING.
+
 **Technologies Used:**
 - Generative AI (GEMINI)
 - Node.js, Express.js
