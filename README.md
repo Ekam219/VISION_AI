@@ -44,5 +44,5 @@ This project is under the [license_name] license. See LICENSE.md for details.
 **Contact:**
 For inquiries or support, email [email_address].
 
-[license_name]: <license_name>
-[email_address]: <email_address>
+
+[email_address]: <ekamjotjaggi2511@gmail.com>
