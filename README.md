@@ -13,7 +13,7 @@ This project creates an AI guidance system to assist visually impaired individua
 -PROBLEM SOLVING.
 
 **Technologies Used:**
-- Generative AI (GEMINI)
+- Google Generative AI (GEMINI PRO)
 - Node.js, Express.js
 - HTML/CSS
 - Depth Sensing API
