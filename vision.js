@@ -14,7 +14,16 @@ const genAI = new GoogleGenerativeAI(process.env.API_KEY);
 const { Console } = require("console");
 
 app.use(express.static(__dirname));// to use static file
- 
+function speec(text){
+  return (
+      new Promise((resolve,reject)=>{
+        
+         say.speak(text);
+         resolve();
+      }
+      )
+  )
+}
 function fileToGenerativePart(path, mimeType) {
     return {
       inlineData: {
@@ -84,7 +93,7 @@ const text = response.text();
 
 console.log(text);
 
-say.speak(text);//to convert text to audio
+await speec(text);
 
 
 fs.unlinkSync(imageFilePath);
